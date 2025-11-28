@@ -1,5 +1,7 @@
 #  Superstore Sales & Profitability Analysis – Power BI Project
-## Dashboard[]
+## Dashboard
+<img width="1274" height="690" alt="Dashboard" src="https://github.com/user-attachments/assets/021a4e74-f131-49ce-9295-807ba8fcd792" />
+
 ##  Project Overview  
 This project analyzes sales performance for a fictitious retail company, **Superstore**, using interactive Power BI dashboards.  
 The dataset was cleaned, normalized, and modeled into a star schema to enable efficient reporting and insights extraction.
